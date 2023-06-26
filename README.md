@@ -24,6 +24,10 @@ See the video for a demostration of the application in action.
 
 
 
+https://github.com/trhenderson303/SVG-generator/assets/132783253/6f34760b-7d38-47e7-835e-be39f04342fb
+
+
+
 SVG files can be opened in visual studio code and edited to alter coloring or letters.
 
 ## License
