@@ -15,7 +15,7 @@ const generateLogo = () => {
         {
             name: 'color',
             type: 'input',
-            message: 'Enter a color or hexidecimal code (beginning with #) for the logo text',
+            message: 'Enter a color or hexidecimal code (beginning with #) for the logo shape',
         },
         {
             name: 'text',
